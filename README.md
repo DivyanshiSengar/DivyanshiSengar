@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @DivyanshiSengar
+# Git-demo
+this is a Demo for Git &amp; Github class.
+
+# teacher
+Shradha Khapra
+
 # student
 divyanshi sengar
 <!---
